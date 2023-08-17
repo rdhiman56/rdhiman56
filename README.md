@@ -28,25 +28,14 @@
 <h3 align="left">🛠 Skills and tools</h3>
 
 ###
-
-<div align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2Y2gmQB5zuaBd1AfN_AyEgoTgxPF65i7GwlvrbnnP_RUlubieG19WFnonCtS4ZfAox4&usqp=CAU" height="40" alt="go logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥  SKILLS & Experience</h3>
-
-###
 <b>Technology</b> : Microfrontend, React JS, Redux, Redux ToolKit, React Hooks, React Query
- <br><br>
+ <br>
 <b>UI framework</b> : Material UI, Styled Component
- <br><br>
+ <br>
 <b>Integration</b> Using : GraphQl, Rest API
- <br><br>
+ <br>
 <b>Others</b> : HTML5, CSS3, SASS/SCSS, Bootstrap, JavaScript, firebase, firebase hosting, firebase deploymentTechnology : React JS, Redux , Redux ToolKit, React Hooks, React Query UI 
- <br><br>
+ <br>
 <b>Framework</b> : Material UI, Styled Component Integration Using : GraphQl, Rest API Others : HTML5, CSS3, SASS/SCSS, Bootstrap, JavaScript, firebase, firebase hosting, firebase deployment
 
 ###
