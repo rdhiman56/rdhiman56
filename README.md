@@ -5,14 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
@@ -22,18 +14,18 @@
 
 ###
 
-<h3 align="left">👩‍💻 A Passionate for Web / SEO/ SMM / Cloud / Devops Technologies from India/h3>
+<h3 align="left">👩‍💻 A Passionate for Web / SEO/ SMM / Cloud / Devops Technologies from India</h3>
 
 ###
 
 <p align="left">
-  All of my projects are available at https://rahuldhiman.dcms.site/
+  All of my Git projects are available at https://github.com/rdhiman56
   <br><br>- 
-  🔭  All of my projects are available at https://rahuldhiman.dcms.site/ <br>- 📚 Ask Me about Technologies<br>- ⚡ In my free time i explore new places & Technologies.</p>
+  🔭  Portofolio is available at https://rahuldhiman.dcms.site/ <br>- 📚 Ask Me about Technologies<br>- ⚡ In my free time i explore new places & Technologies.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Skills and tools</h3>
 
 ###
 
