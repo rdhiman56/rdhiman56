@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Rahul Dhiman</h1>
+<h1 align="center">Hi 👋,  I'm Rahul Dhiman</h1>
 
 ###
 
@@ -36,12 +36,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  SKILLS & Experience</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<b>Technology</b> : Microfrontend, React JS, Redux, Redux ToolKit, React Hooks, React Query
+ <br><br>
+<b>UI framework</b> : Material UI, Styled Component
+ <br><br>
+<b>Integration</b> Using : GraphQl, Rest API
+ <br><br>
+<b>Others</b> : HTML5, CSS3, SASS/SCSS, Bootstrap, JavaScript, firebase, firebase hosting, firebase deploymentTechnology : React JS, Redux , Redux ToolKit, React Hooks, React Query UI 
+ <br><br>
+<b>Framework</b> : Material UI, Styled Component Integration Using : GraphQl, Rest API Others : HTML5, CSS3, SASS/SCSS, Bootstrap, JavaScript, firebase, firebase hosting, firebase deployment
 
 ###
