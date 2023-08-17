@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://cdn.cmsfly.com/64db852ef5a8120012ca202a/whatsapp-image-2023-08-15-at-7.53.43-pm-CH5xcq.jpeg)https://cdn.cmsfly.com/64db852ef5a8120012ca202a/whatsapp-image-2023-08-15-at-7.53.43-pm-CH5xcq.jpeg" alt="Snake animation" />
+<img src="https://cdn.cmsfly.com/64db852ef5a8120012ca202a/whatsapp-image-2023-08-15-at-7.53.43-pm-CH5xcq.jpeg" alt="Snake animation" />
 
 ###
